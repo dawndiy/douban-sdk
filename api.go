@@ -14,7 +14,7 @@ import (
 )
 
 // douban url
-const DoubanURL = "http://douban.fm"
+const DoubanURL = "https://douban.fm"
 
 var client *http.Client
 
